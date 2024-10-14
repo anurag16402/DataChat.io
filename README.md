@@ -25,5 +25,5 @@ Follow these steps to get your development environment set up:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/datatalk.git
-   cd datatalk
+   git clone https://github.com/your-username/DataChat.io.git
+   cd DataChat.io
